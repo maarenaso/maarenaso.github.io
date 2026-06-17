@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+A selection of computational and research projects. *(Replace the GitHub links once the
+repositories are public — and confirm with each research group what may be shared openly.)*
+
+## CROCO ocean modeling — coral reefs of Barú
+Configuration and analysis of regional ocean simulations (CROCO) for Caribbean reef systems.
+
+[View repository →](https://github.com/USERNAME/croco-baru){.pill}
+
+## Bioinformatics — *Hypostomus* systematics
+Sequence analysis and phylogenetic systematics workflows for taxonomic identification.
+
+[View repository →](https://github.com/USERNAME/hypostomus-systematics){.pill}
+
+## Python for Biosciences
+Notebooks from the *Python for Biosciences* specialization — data analysis and scientific computing.
+
+[View repository →](https://github.com/USERNAME/python-biosciences){.pill}

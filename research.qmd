@@ -1,0 +1,33 @@
+---
+title: "Research"
+---
+
+## Coral Reef Ecology & Oceanography
+
+**OCEANICOS — Universidad Nacional de Colombia** · 2025–Present
+
+Study of the relationship between oceanographic processes and the ecology of coral reef
+communities, focused on reef systems in **Barú (Colombian Caribbean)**. The work applies the
+**CROCO** ocean model to characterize the environmental conditions that shape reef stability.
+
+- Co-authored a poster at **SENALMAR 2026** (National Seminar on Marine Sciences and Technologies).
+
+## Population Genetics
+
+**"Explorers of Genetic Diversity" Research Group** · 2024–Present
+
+Contribution to a project on the **taxonomic identification of a freshwater fish**
+(*Hypostomus* sp.), with training in phylogenetic systematics and bioinformatics.
+
+- Co-authored a poster at the **Colombian Congress of Ichthyology 2026**.
+
+## Conference Presentations
+
+1. **Arenas-Ocampo, M.**, Suárez, P. G., Sandoval-Hernández, C., DoNascimento, C., &
+   Márquez-Fernández, E. J. (2026). *Simple dentition in* Hypostomus *(Siluriformes: Loricariidae):
+   taxonomic challenges and morphological concordance in biological collections of Colombia.*
+   Poster, Colombian Congress of Ichthyology 2026.
+
+2. **Arenas-Ocampo, M.**, & Cardona-Orozco, Y. (2026). *Coral communities in Barú: an approach to
+   the analysis of environmental stability from oceanographic and geomorphological conditions.*
+   Poster, SENALMAR 2026.

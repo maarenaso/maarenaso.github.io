@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Manuela Arenas Ocampo"
+  description: "Biological Engineering Student · Marine & Coral Reef Research"
+  navbar:
+    pinned: true
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    center: "© 2026 Manuela Arenas Ocampo · Built with Quarto & GitHub Pages"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: false
+    grid:
+      body-width: 900px

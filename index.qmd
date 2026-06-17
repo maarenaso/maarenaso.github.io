@@ -1,0 +1,48 @@
+---
+pagetitle: "Manuela Arenas Ocampo"
+---
+
+::: {.hero}
+<img src="profile.jpg" class="avatar" width="128" height="128" style="border-radius:50%;border:4px solid #fff;box-shadow:0 4px 18px rgba(10,79,92,.25);" />
+
+::: {.hero-name}
+Manuela Arenas Ocampo
+:::
+
+::: {.hero-tag}
+Biological Engineering Student · Marine & Coral Reef Research
+:::
+
+[✉ Email](mailto:elusuario@unal.edu.co){.pill}
+[LinkedIn](https://www.linkedin.com/in/USERNAME){.pill}
+[GitHub](https://github.com/USERNAME){.pill}
+[CV (PDF)](cv.pdf){.pill}
+:::
+
+I'm an undergraduate Biological Engineering student at the **Universidad Nacional de Colombia**,
+drawn to the ocean — and to how marine and [coral reef]{.accent} ecosystems work and persist
+under environmental change. My work brings together **molecular** (population genetics &
+bioinformatics), **computational** (oceanographic modeling with CROCO), and **field-based**
+approaches as a certified diver.
+
+## Research
+
+::: {.card-grid}
+::: {.r-card}
+### Coral Reef Ecology & Oceanography
+[OCEANICOS · 2025–Present]{.tag}
+
+Relationship between oceanographic processes and coral reef community ecology in Barú
+(Colombian Caribbean), using the CROCO ocean model. Poster at SENALMAR 2026.
+:::
+
+::: {.r-card}
+### Population Genetics
+[Explorers of Genetic Diversity · 2024–Present]{.tag}
+
+Taxonomic identification of a freshwater fish (*Hypostomus* sp.) — species delimitation,
+phylogenetic systematics & bioinformatics. Poster at the Colombian Congress of Ichthyology 2026.
+:::
+:::
+
+See more on the [Research](research.qmd) and [Projects](projects.qmd) pages.

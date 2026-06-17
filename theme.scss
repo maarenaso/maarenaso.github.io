@@ -1,0 +1,55 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Inter", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$headings-font-family:   "Inter", $font-family-sans-serif !default;
+
+$ocean:      #0e6b7c !default;
+$ocean-deep: #0a4f5c !default;
+$coral:      #e07a5f !default;
+$ink:        #15323b !default;
+$slate:      #5a6b73 !default;
+$paper:      #fbfcfd !default;
+
+$primary:          $ocean !default;
+$body-color:       $ink !default;
+$body-bg:          $paper !default;
+$link-color:       $ocean-deep !default;
+$link-hover-color: $coral !default;
+
+/*-- scss:rules --*/
+body { letter-spacing: .1px; }
+
+.navbar {
+  background-color: $ocean-deep !important;
+  .navbar-brand, .nav-link { color: #eaf5f7 !important; }
+  .nav-link:hover { color: #ffffff !important; }
+}
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+h1, h2, h3 { color: $ink; font-weight: 700; }
+h2 { border-bottom: 2px solid #d9e7ea; padding-bottom: .25rem; margin-top: 2rem; }
+
+.accent { color: $coral; }
+
+.hero {
+  text-align: center;
+  padding: 2.2rem 1rem 1rem;
+  .hero-name { font-size: 2.4rem; font-weight: 800; margin: .6rem 0 .25rem; }
+  .hero-tag  { font-size: 1.1rem; color: $slate; margin-bottom: 1rem; }
+}
+
+.pill {
+  display: inline-block; margin: .25rem; padding: .45rem .9rem;
+  border: 1.5px solid $ocean; border-radius: 999px; color: $ocean;
+  font-weight: 600; font-size: .9rem;
+}
+.pill:hover { background: $ocean; color: #fff; text-decoration: none; }
+
+.card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
+.r-card {
+  border: 1px solid #e1e9ec; border-left: 4px solid $ocean;
+  border-radius: 8px; padding: 1rem 1.2rem; background: #fff;
+}
+.r-card h3 { margin-top: 0; color: $ocean-deep; font-size: 1.05rem; }
+.r-card .tag { font-size: .8rem; color: $slate; }
