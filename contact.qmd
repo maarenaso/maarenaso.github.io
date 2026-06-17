@@ -5,7 +5,7 @@ title: "Contact"
 I'm always glad to connect with researchers, students, and groups working on coral reefs,
 marine genomics, and ocean science.
 
-- **Email:** [elusuario@unal.edu.co](mailto:elusuario@unal.edu.co)
-- **LinkedIn:** [linkedin.com/in/USERNAME](https://www.linkedin.com/in/USERNAME)
-- **GitHub:** [github.com/USERNAME](https://github.com/USERNAME)
+- **Email:** [maarenaso@unal.edu.co](mailto:maarenaso@unal.edu.co)
+- **LinkedIn:** [linkedin.com/in/maarenaso](https://www.linkedin.com/in/maarenaso)
+- **GitHub:** [github.com/maarenaso](https://github.com/maarenaso)
 - **Location:** Medellín, Colombia
